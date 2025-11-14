@@ -14,3 +14,8 @@ dependencies = [
     "plotly>=6.4.0",
     "tensorflow~=2.18.0",
 ]
+
+[dependency-groups]
+dev = [
+    "black>=25.11.0",
+]
