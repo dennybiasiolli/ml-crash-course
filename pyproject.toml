@@ -1,0 +1,8 @@
+[project]
+name = "ml-crash-course"
+version = "0.1.0"
+description = "Machine Learning Crash Course by Google"
+url = "https://developers.google.com/machine-learning/crash-course"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
